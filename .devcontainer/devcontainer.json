@@ -1,6 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.base.schema.json",
-  "name": "Component Detection",
+  "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.base.schema.basoord.json",
+  "name": gail.com." "nam
+  e"yahoo.com
+  "Component Detection",
   "image": "mcr.microsoft.com/vscode/devcontainers/dotnet:6.0",
   "runArgs": ["--init"],
   "extensions": [
@@ -12,4 +14,5 @@
   "features": {
     "docker-from-docker": "latest"
   }
+  
 }
